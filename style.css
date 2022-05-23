@@ -3,12 +3,6 @@ body {
   background-image: url("https://i.imgur.com/syW9nog.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-color:#9879 ; 
-  border-radius: 10px; 
-  position: absolute; 
-  top: 150px; 
-  left: 250px;
-  width: 500px; 
-  height: 300px;
+  group-form: background-color:#9879; border-radius: 10px; position: absolute; top: 150px; left: 250px; width: 500px; height: 300px;
 
 }
